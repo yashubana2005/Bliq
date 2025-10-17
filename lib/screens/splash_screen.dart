@@ -83,7 +83,7 @@ class _SplashScreenState extends State<SplashScreen> {
                     end: Alignment.bottomRight,
                   ).createShader(bounds),
                   child: const Text(
-                    'Lexio',
+                    'Bliq',
                     style: TextStyle(
                       fontSize: 60,
                       fontWeight: FontWeight.w900,
